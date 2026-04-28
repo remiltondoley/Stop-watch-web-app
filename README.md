@@ -1,5 +1,5 @@
-# PRODIGY_WD_02
-# ⏱️ Stopwatch Pro
+
+ Stopwatch Pro
 
 **Stopwatch Pro** is a modern, responsive web-based stopwatch built using HTML, CSS, and JavaScript. It features start, pause, reset, and lap functionalities, along with theme switching (light, dark, sunset, aqua, and forest) and a dark mode toggle.
 
